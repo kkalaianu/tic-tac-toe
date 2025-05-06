@@ -63,3 +63,6 @@ Add AI opponent
 📄 License
 This project is open source under the MIT License.
 
+## 🌐 Live Demo
+
+[Click here to play the game](https://newtic-tac-toe-game.netlify.app/)
